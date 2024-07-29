@@ -1,0 +1,3 @@
+2024-07-29 14:51:02.685485+09:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]QUESTION"; SQL statement:
+QUESTION [42000-224]
