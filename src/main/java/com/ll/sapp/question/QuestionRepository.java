@@ -1,4 +1,5 @@
-package com.ll.sapp;
+// QuestionRepository : 데이터 관리자
+package com.ll.sapp.question;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
